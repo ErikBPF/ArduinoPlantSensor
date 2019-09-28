@@ -3,7 +3,7 @@
     {
       "id": 1,
       "Time": 99999999999999,
-      "SoilTemperature": 10099,
+      "SoilTemperature": 100.99,
       "SoilHumidity": 10099,
       "AirTemperature": 10099,
       "AirHumidity": 10099,
