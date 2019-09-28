@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "Time": 99999999999999
-      "SoilTemperature": 100.99
-      "SoilHumidity": 100.99
-      "AirTemperature": 100.99
-      "AirHumidity": 100.99
-      "PerceivedTemp": 100.99
-      "Light": 1024
-      "Rain": 1024
+      "Time": 99999999999999,
+      "SoilTemperature": 100.99,
+      "SoilHumidity": 100.99,
+      "AirTemperature": 100.99,
+      "AirHumidity": 100.99,
+      "PerceivedTemp": 100.99,
+      "Light": 1024,
+      "Rain": 1024,
     }
   ]
 }
